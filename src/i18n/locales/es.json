@@ -1,0 +1,44 @@
+{
+    "es": {
+        "instructions": "Instrucciones",
+        "ingredients": "Ingredientes",
+        "sandwich": {
+            "name": "Sándwich",
+            "instructions": [       
+                "Agrega una pizca de curry en polvo. Hay un ingrediente más que le dará a tu simple ensalada de huevo un toque especial, y es una pizca de curry amarillo en polvo. El curry en polvo no solo le dará a su sándwich de ensalada de huevo un suave toque picante, sino que también le dará un poco más de color.",
+                "¿A mayonesa o no a mayonesa? Puede sustituir la mayonesa en un sándwich de ensalada de huevo con un poco de aguacate maduro; si lo hace, deberá agregar un poco de vinagre o jugo de limón para agregar un componente ácido y agregar más sal de la esperada. Personalmente, prefiero mi sándwich de ensalada de huevo con una gran cantidad de mayonesa. Dicho esto, la cantidad de mayonesa es completamente una cuestión de gustos."
+            ],
+            "ingredients": [
+                "huevo grande cocido, pelado y picado (ver la nota de receta)",
+                "1-2 cucharadas de mayonesa (al gusto)",
+                "2 cucharadas de apio picado",
+                "1 cucharada de cebollino o cebollín picado",
+                "Una pizca de curry en polvor",
+                "Sal y pimienta para probar)",
+                "Lechuga",
+                "2 rebanadas de pan blanco, de trigo, multicereales o de centeno, tostado o natural"
+            ]
+        },
+        "pizza": {
+            "name": "Pizza",
+            "instructions": [
+                "Coloque el agua tibia en el tazón grande de una batidora de pie resistente. Espolvoree la levadura sobre el agua tibia y déjela reposar durante 5 minutos hasta que la levadura se disuelva.",
+                "Después de 5 minutos, revuelva si la levadura no se ha disuelto por completo. La levadura debe comenzar a formar espuma o florecer, lo que indica que la levadura todavía está activa y viva (tenga en cuenta que si está usando 'levadura instantánea' en lugar de 'levadura activa', no es necesario realizar ninguna prueba. Solo agregue a la harina en el siguiente paso .) 2 Prepara y amasa la masa de pizza: Agrega la harina, la sal, el azúcar y el aceite de oliva, y usando la paleta mezcladora, mezcla a velocidad baja durante un minuto. Luego reemplace la paleta mezcladora con el accesorio de gancho para masa.",
+                "Amasar la masa de pizza a velocidad baja a media usando el gancho para masa durante unos 7-10 minutos.",
+                "Si no tiene batidora, puede mezclar los ingredientes y amasarlos a mano. La masa debe quedar un poco pegajosa o pegajosa al tacto. Si está demasiado húmedo, espolvorea un poco más de harina.",
+                "Deje que la masa suba: Extienda una fina capa de aceite de oliva sobre el interior de un tazón grande. Coloca la masa de pizza en el bol y dale la vuelta para que se cubra con el aceite.",
+                "En este punto, puede elegir cuánto tiempo desea que la masa fermente y suba. Una fermentación lenta (24 horas en la nevera) dará como resultado sabores más complejos en la masa. Una fermentación rápida (1 1/2 horas en un lugar cálido) permitirá que la masa suba lo suficiente para trabajar. Cubre la masa con film transparente."
+            ],
+            "ingredients": [
+                "1 1/2 tazas (355 ml) de agua tibia (105 ° F-115 ° F)",
+                "1 paquete (2 1/4 cucharaditas) de levadura seca activa",
+                "3 3/4 tazas (490 g) de harina de pan",
+                "2 cucharadas de aceite de oliva extra virgen (omítelo si cocina pizza en un horno de leña)",
+                "2 cucharaditas de sal",
+                "1 cucharadita de azucar"
+            ]
+        }
+        
+
+    }
+}
